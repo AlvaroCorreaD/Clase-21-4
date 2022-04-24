@@ -2,8 +2,8 @@
 console.log("Girar a la Izquierda 90°");
 console.log("Avanzar");
 console.log("Girar a la Derecha 90°");
-console.log("Avnazar");
-console.log("Avnazar");
+console.log("Avanzar");
+console.log("Avanzar");
 console.log("Girar a la Derecha 90°");
 console.log("Avanzar");
 console.log("Eliminar Pila");
