@@ -1,4 +1,5 @@
 //Ejercicio Granjera 1
+console.log("Avanzar");
 console.log("Eliminar Pila");
 console.log("Avanzar");
 console.log("Eliminar Pila");
